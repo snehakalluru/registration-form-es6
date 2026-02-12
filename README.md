@@ -31,4 +31,4 @@ The form validates user input, displays feedback, and persists data using localS
 
 ## screenshots
 ### Registration Form
-![Registration Form](Screenshot (64).png)
+![Registration Form](Screenshot(64).png)
