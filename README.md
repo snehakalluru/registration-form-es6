@@ -30,3 +30,5 @@ The form validates user input, displays feedback, and persists data using localS
 - LocalStorage API
 
 ## screenshots
+### Registration Form
+![Registration Form](Screenshot (64).png)
